@@ -15,7 +15,7 @@ function Hero() {
         <button>Get in Touch</button>
       </div>
       <div className="right">
-        <img src="../../public/vite.svg" alt="my-image" />
+        <img src="../assets/react.svg" alt="my-image" />
       </div>
     </div>
   );
